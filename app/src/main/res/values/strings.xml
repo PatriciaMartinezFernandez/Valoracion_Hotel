@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Valoracion Hotel</string>
+    <string name="txtPersonal">Personal</string>
+    <string name="txtInstalaciones">Instalaciones</string>
+    <string name="txtServicios">Servicios</string>
+    <string name="txtLimpieza">Limpieza</string>
+    <string name="txtComfort">Comfort</string>
+    <string name="txtCalidadPrecio">Calidad/Precio</string>
+    <string name="txtUbicacion">Ubicación</string>
+    <string name="btnNuevaValoracion">Nueva Valoración</string>
 </resources>
